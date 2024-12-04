@@ -1,3 +1,27 @@
 /*
 Custom Css
 */
+.bg-rosado-oscuro {
+    background-color: #C2185B; /* O el tono elegido */
+    color: #ffffff; /* Blanco para contraste */
+}
+
+/* Texto */
+.text-rosado-oscuro {
+    color: #C2185B;
+}
+
+/* Bordes */
+.border-rosado-oscuro {
+    border-color: #C2185B;
+}
+.btn-rosado-oscuro {
+    background-color: #C2185B;
+    color: #ffffff;
+    border: 1px solid #C2185B;
+}
+
+.btn-rosado-oscuro:hover {
+    background-color: #B03060; /* Un tono más oscuro al pasar el mouse */
+    border-color: #B03060;
+}
