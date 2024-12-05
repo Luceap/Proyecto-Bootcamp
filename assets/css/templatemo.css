@@ -64,14 +64,14 @@ body, ul, li, p, a, label, input, div {
 }
 .pagination .page-link:hover {color: #000;}
 .pagination .page-link:hover, .pagination .page-link.active {
-  background-color: #69bb7e;
+  background-color: #C2185B;
   color: #fff;
 }
 /* Nav */
 #templatemo_nav_top { min-height: 40px;}
 #templatemo_nav_top * { font-size: .9em !important;}
 #templatemo_main_nav a { color: #212934;}
-#templatemo_main_nav a:hover { color: #e40392;}
+#templatemo_main_nav a:hover { color: #C2185B;}
 #templatemo_main_nav .navbar .nav-icon { margin-right: 20px;}
 
 /* Hero Carousel */
