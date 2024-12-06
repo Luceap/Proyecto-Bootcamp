@@ -4,45 +4,45 @@ document.addEventListener('DOMContentLoaded', () => {
     const baseDeDatos = [
         {
             id: 1,
-            nombre: 'Sombrero vueltiao con la bandera de Colombia, 23 vueltas',
-            precio: 250000,
-            imagen: 'assets/img/feature_prod_01.jpg',
-            categoria: 'sombreros'
+            nombre: 'Polvo iluminador de hadas resplandeciente',
+            precio: 43.724,
+            imagen: 'assets/img/polvo4.jpg',
+            categoria: 'Rostro'
         },
         {
             id: 2,
-            nombre: 'Sombrero vueltiao-machiembriao',
-            precio: 150000,
-            imagen: 'assets/img/sombrero4.jpg',
-            categoria: 'sombreros'
+            nombre: 'Tinte de labios brillante, maquillaje y cosméticos',
+            precio: 29.288,
+            imagen: 'assets/img/labial4.jpg',
+            categoria: 'Labios'
         },
         {
             id: 3,
-            nombre: 'Sombrero vueltiao colombiano 15 vueltas tricolor',
-            precio: 250000,
-            imagen: 'assets/img/feature_prod_02.jpg',
-            categoria: 'sombreros'
+            nombre: 'Paleta de sombras en 9 colores con textura mate',
+            precio: 39.779,
+            imagen: 'assets/img/sombras3.jpg',
+            categoria: 'Ojos'
         },
         {
             id: 4,
-            nombre: 'Mochila wayuu azul 6',
-            precio: 120000,
-            imagen: 'assets/img/shop_04.jpg',
-            categoria: 'mochilas'
+            nombre: 'Aceite labial hidratante de 4 colores',
+            precio: 25.896,
+            imagen: 'assets/img/labial5.jpg',
+            categoria: 'Labios'
         },
         {
             id: 5,
-            nombre: 'Bolso en fique',
-            precio: 120000,
-            imagen: 'assets/img/shop_03.jpg',
-            categoria: 'bolsos'
+            nombre: 'Barra de sombra brillante',
+            precio: 23.183,
+            imagen: 'assets/img/sombras4.jpg',
+            categoria: 'Ojos'
         },
         {
             id: 6,
-            nombre: 'Hamaca',
-            precio: 120000,
-            imagen: 'assets/img/category_img_02.jpg',
-            categoria: 'hamacas'
+            nombre: 'Crema base de maquillaje de alta calidad',
+            precio: 22.983,
+            imagen: 'assets/img/base3.jpg',
+            categoria: 'Rostro'
         }
     ];
 
