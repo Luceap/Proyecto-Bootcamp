@@ -5,42 +5,42 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             id: 1,
             nombre: 'Polvo iluminador de hadas resplandeciente',
-            precio: 43.724,
+            precio: 43724,
             imagen: 'assets/img/polvo4.jpg',
             categoria: 'Rostro'
         },
         {
             id: 2,
             nombre: 'Tinte de labios brillante, maquillaje y cosméticos',
-            precio: 29.288,
+            precio: 29288,
             imagen: 'assets/img/labial4.jpg',
             categoria: 'Labios'
         },
         {
             id: 3,
             nombre: 'Paleta de sombras en 9 colores con textura mate',
-            precio: 39.779,
+            precio: 39779,
             imagen: 'assets/img/sombras3.jpg',
             categoria: 'Ojos'
         },
         {
             id: 4,
             nombre: 'Aceite labial hidratante de 4 colores',
-            precio: 25.896,
+            precio: 25896,
             imagen: 'assets/img/labial5.jpg',
             categoria: 'Labios'
         },
         {
             id: 5,
             nombre: 'Barra de sombra brillante',
-            precio: 23.183,
+            precio: 23183,
             imagen: 'assets/img/sombras4.jpg',
             categoria: 'Ojos'
         },
         {
             id: 6,
             nombre: 'Crema base de maquillaje de alta calidad',
-            precio: 22.983,
+            precio: 22983,
             imagen: 'assets/img/base3.jpg',
             categoria: 'Rostro'
         }
